@@ -1,4 +1,7 @@
 # 关于饥荒联机版
+
+于2021/5/27
+
 # 模组
 可以安装我的*创意工坊合集*
 1. 打开 [Steam 创意工坊::1766744431的合集 (steamcommunity.com)](https://steamcommunity.com/sharedfiles/filedetails/?id=2499258046) (需翻墙)
@@ -10,7 +13,7 @@
 
 [**旧神归来**](https://dontstarve.fandom.com/wiki/Return_of_Them)是克雷公司为饥荒联机版不断增加的新内容，增加了玩家的后期游戏体验。
 
-按时间顺序：
+子内容，从先到后顺序：
 
 1. **潮汐之轮**：月岛
 2. **咸狗**：盐矿、邪天翁
@@ -25,8 +28,8 @@
 [【32P】饥荒联机单人全boss逃课硬核走位站撸无伤打法攻略合集，鹿鸭，蚁狮，熊獾，巨鹿，克劳斯，蜂后，龙蝇，蜘蛛女王，犀牛，蛤蟆，暗影boss，影织者，帝王蟹_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1qj411f7FP)
 
 # 烹饪锅的食谱
-1. [Crock Pot | Don't Starve Wiki | Fandom](https://dontstarve.fandom.com/wiki/Crock_Pot#Recipes_for_the_Crock_Pot)
-2. 游戏内右侧食物制作栏![](https://static.wikia.nocookie.net/dont-starve-game/images/7/72/Icon_Food.png/revision/latest/scale-to-width-down/50?cb=20141225141822)—烹饪书![](https://static.wikia.nocookie.net/dont-starve-game/images/c/c8/Cookbook.png/revision/latest/scale-to-width-down/50?cb=20200820212717)
+1. [Crock Pot：持续更新的官方Wiki](https://dontstarve.fandom.com/wiki/Crock_Pot#Recipes_for_the_Crock_Pot)
+2. 游戏内右侧食物制作栏<img src="https://static.wikia.nocookie.net/dont-starve-game/images/7/72/Icon_Food.png/revision/latest/scale-to-width-down/50?cb=20141225141822">—烹饪书<img src="https://static.wikia.nocookie.net/dont-starve-game/images/c/c8/Cookbook.png/revision/latest/scale-to-width-down/50?cb=20200820212717">
 
 # 物品、防具
 
