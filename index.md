@@ -1,7 +1,7 @@
 # 关于饥荒联机版
 # MODS
 可以安装我的*创意工坊合集*
-1. 打开 https://steamcommunity.com/sharedfiles/filedetails/?id=2499258046 (需翻墙)
+1. 打开 [https://steamcommunity.com/sharedfiles/filedetails/?id=2499258046](https://steamcommunity.com/sharedfiles/filedetails/?id=2499258046) (需翻墙)
 2. 选择 订阅所有
 3. 启动 饥荒联机版，等待模组下载完毕
 4. 选择 模组—本地模组—全部打勾✔
